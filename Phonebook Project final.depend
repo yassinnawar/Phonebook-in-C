@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1577050601 source:g:\code blocks\project\phonebook project final\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
